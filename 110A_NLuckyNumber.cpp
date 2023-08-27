@@ -38,4 +38,8 @@ bool isNearlyLucky(long long int n)
 	return false;
 }
 
+<<<<<<< HEAD
 //Solved!!
+=======
+//Solved!!
+>>>>>>> cc6c7f9733613800a7f9cb4de8e8fd61edb5fa79
