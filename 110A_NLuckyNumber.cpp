@@ -37,3 +37,5 @@ bool isNearlyLucky(long long int n)
 	}
 	return false;
 }
+
+//Solved!!
